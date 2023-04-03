@@ -1,0 +1,4 @@
+# Ignore notebook checkpoints, pycaches and html files
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/*.html
